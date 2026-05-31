@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databaseprocess",
+        "uuid": 6503296,
+        "checksum": "hv5ox9"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
